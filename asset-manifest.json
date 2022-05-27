@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tochigi-jinjacho-ujigami/static/css/main.67921584.chunk.css",
-    "main.js": "/tochigi-jinjacho-ujigami/static/js/main.a26856fe.chunk.js",
-    "main.js.map": "/tochigi-jinjacho-ujigami/static/js/main.a26856fe.chunk.js.map",
+    "main.js": "/tochigi-jinjacho-ujigami/static/js/main.5aae7059.chunk.js",
+    "main.js.map": "/tochigi-jinjacho-ujigami/static/js/main.5aae7059.chunk.js.map",
     "runtime-main.js": "/tochigi-jinjacho-ujigami/static/js/runtime-main.162e409d.js",
     "runtime-main.js.map": "/tochigi-jinjacho-ujigami/static/js/runtime-main.162e409d.js.map",
     "static/js/2.6adfd755.chunk.js": "/tochigi-jinjacho-ujigami/static/js/2.6adfd755.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.162e409d.js",
     "static/js/2.6adfd755.chunk.js",
     "static/css/main.67921584.chunk.css",
-    "static/js/main.a26856fe.chunk.js"
+    "static/js/main.5aae7059.chunk.js"
   ]
 }
