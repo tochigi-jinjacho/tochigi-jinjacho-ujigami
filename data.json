@@ -167,7 +167,7 @@
     [
       "2022/05/27",
       "日光市",
-      "https://tochigi-jinjacho.github.io/tochigi-jinjacho-ujigami/imaichitakinoojinjya nikko-imaichi.png",
+      "https://tochigi-jinjacho.github.io/tochigi-jinjacho-ujigami/jyuunijinjya nikkok-fujihara.png",
       "36.855308",
       "139.729592",
       "十二神社　【日光市藤原】",
@@ -179,7 +179,7 @@
     [
       "2022/05/28",
       "日光市",
-      "https://tochigi-jinjacho.github.io/tochigi-jinjacho-ujigami/jyuunijinjya nikkok-fujihara.png",
+      "https://tochigi-jinjacho.github.io/tochigi-jinjacho-ujigami/imaichitakinoojinjya nikko-imaichi.png",
       "36.726842",
       "139.680779",
       "今市総鎮守　瀧尾神社　【日光市今市】",
@@ -203,7 +203,7 @@
     [
       "2022/05/28",
       "日光市",
-      "https://tochigi-jinjacho.github.io/tochigi-jinjacho-ujigami/iwasakijinjya nikko-iwasaki.png",
+      "https://tochigi-jinjacho.github.io/tochigi-jinjacho-ujigami/takaojinjya nikko-serinuma.png",
       "36.746168",
       "139.714609",
       "高男神社　【日光市芹沼】",
@@ -235,6 +235,18 @@
       "",
       "",
       "https://www.takinojinja.jp/"
+    ],
+    [
+      "2022/05/28",
+      "日光市",
+      "https://tochigi-jinjacho.github.io/tochigi-jinjacho-ujigami/oomurotakaojinjya nikko-oomuro.png",
+      "36.730839",
+      "139.756259",
+      "日光大室 高靇神社　【日光市大室】",
+      "日光大室　高靇神社　（にっこうおおむろ　たかおじんじゃ）\n\n【鎮座地】　栃木日光市大室1619\n【御神徳】　厄除け　病気平癒　心願成就\n【例祭日】　11月15日\n\n神域より湧き出御神水\n日光市大室の大山に鎮座する高靇神社は、御祭神に大山祇神・少名彦神・草野姫神を祀る。一の鳥居をくぐり、四十段余りの石段を登ると、周囲に樹齢百五十年を越す杉桧、御神木として「楠」「広葉杉」も交え、鬱蒼たる中に社殿がある。さらに山頂に向かい約50mのところには奥宮がある。\n手水舎の御神水は、大山山腹より絶えることなく湧き出で、参拝者の身も心も清めてくれる。地域の鎮守として遷座され、明治六年には郷社に拝命された。\n\n【年間行事】         \n\n元旦　【歳旦祭】\n2月3日　【節分祭】\n2月11日　【紀元祭】\n2月19日　【祈年祭】\n4月上旬　【新入学奉告祭】\n6月30日　【大祓式】\n8月第1土曜　【奥宮大祭　雅楽演奏会】\n11月15日　【例祭】\n11月23日　【新嘗祭】\n12月31日　【大祓式】\n毎月1日・15日　【月次祭】",
+      "takaokami_nikko",
+      "takaokami_nikko",
+      "https://takaokami.skr.jp/"
     ]
   ]
 }
